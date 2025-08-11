@@ -1,0 +1,9 @@
+C:\Users\lakri\source\repos\hbff\hbff\bin\Debug\hbff.exe
+C:\Users\lakri\source\repos\hbff\hbff\bin\Debug\hbff.pdb
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\hbff.csproj.AssemblyReference.cache
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\gdi_test.gdi.resources
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\hbff.Properties.Resources.resources
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\hbff.csproj.GenerateResource.cache
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\hbff.csproj.CoreCompileInputs.cache
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\hbff.exe
+C:\Users\lakri\source\repos\hbff\hbff\obj\Debug\hbff.pdb
