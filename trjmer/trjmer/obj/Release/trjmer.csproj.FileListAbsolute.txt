@@ -1,0 +1,10 @@
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\trjmer.csproj.AssemblyReference.cache
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\gdi_test.gdi.resources
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\trjmer.Properties.Resources.resources
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\trjmer.csproj.GenerateResource.cache
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\trjmer.csproj.CoreCompileInputs.cache
+C:\Users\lakri\source\repos\trjmer\trjmer\bin\Release\trjmer.exe.config
+C:\Users\lakri\source\repos\trjmer\trjmer\bin\Release\trjmer.exe
+C:\Users\lakri\source\repos\trjmer\trjmer\bin\Release\trjmer.pdb
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\trjmer.exe
+C:\Users\lakri\source\repos\trjmer\trjmer\obj\Release\trjmer.pdb
